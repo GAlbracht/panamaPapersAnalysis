@@ -12,6 +12,6 @@ Gaining insight into the Panama Papers is pivotal for this project as it represe
 
 One of the important things relating to the Panama Papers is the use of tax haven countries to pay less taxes on assets. Tax haven countries are countries that have lower taxes relating to investments such as capital gains taxes and income taxes. These countries attract wealthy foreign investors who want to pay less in taxes (Investopedia). We wanted to know which tax haven countries were most popular with wealthy U.S. investors in the Panama Papers.  
 
-Continuation in PDF
+Continued in PDF
 
 
